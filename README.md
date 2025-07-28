@@ -3,6 +3,9 @@
 This project is a fully offline NLP pipeline that helps to analyze PDF documents and generate refined sections relevant to a task.
 
 It uses a multilingual SentenceTransformer model i.e. distiluse-base-multilingual-cased-v1 and adheres to all constraints:
+
+Kindly, download the model from here: https://drive.google.com/drive/folders/1YYSqvRLw4NgvxupPhJOtIlSAi2W4rGrK?usp=drive_link
+
 - Model size: **under 1GB**
 - Runs completely **offline**
 - Packaged inside a Docker container
